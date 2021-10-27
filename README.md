@@ -1,3 +1,3 @@
 # TdEilco
 
-Groupe : Adrien Busin
+Groupe : Adrien Busin et Michel blanc
